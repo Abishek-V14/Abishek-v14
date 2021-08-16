@@ -1,10 +1,10 @@
-![Picture6](https://user-images.githubusercontent.com/78716760/129577220-b39c4abc-9ace-458a-bf5c-ff8ef8892f4a.png)
+![github](https://user-images.githubusercontent.com/78716760/129578911-a7cef242-ed95-488f-a9df-0caf5601e163.png)
+
 <hr />
 <h1 align="center">
 Hi👋,I'm Abishek V
 </h1>
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishek-v14)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 <hr />
 
